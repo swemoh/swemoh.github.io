@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Sweety Mohanty"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/mine.jpg"
   bio              : "Learning for living"
   location         : "Munich"
   email            :
