@@ -6,7 +6,7 @@ This site is based on the [Hello Friend ng  ](https://themes.gohugo.io/hugo-them
 Feel free to adapt this theme to your site without linking back to me or including a disclaimer!
 
 ### Run locally
-    ```hugo serve```
+    hugo serve
 
 ### Build
-    ```hugo -D```
+    hugo -D
