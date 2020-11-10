@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sweety&#39;s site :)</title>
+    <link>https://swemoh.github.io/</link>
+    <description>Recent content on Sweety&#39;s site :)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://swemoh.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>https://swemoh.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swemoh.github.io/about/</guid>
+      <description>Hey, there! I am glad you&amp;rsquo;re visiting. Well, Hello! I am Sweety. I am finishing my Masters degree at TU Munich. I was sort of looking for a place to start sharing what I am learning. Hence, the website. I come from Bhubaneswar, a colourful city in vibrant India.
+A lot to figure out about life. I think I will keep writing here. More info about me will follow soon&amp;hellip; :)</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://swemoh.github.io/projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swemoh.github.io/projects/</guid>
+      <description>University works Personal Interests Fun Python beginners&#39; projects  Guess a word game - Hangman  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://swemoh.github.io/publications/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://swemoh.github.io/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
